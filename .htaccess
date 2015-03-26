@@ -1,0 +1,3 @@
+AddHandler video-ffmpeg .mpeg .vob .dvb .asf .avi .wav .flv .ac3 .mpeg-1 .mpeg-2 .mpeg-4 .mjpeg .cin .fli .flc .nsv .swf
+AddHandler video-mplayer .es .ps .pes .vob .avi .mov .mp4 .ogg .fli
+AddHandler video-mencoder .mpg .asf .avi .wav .swf .flv .rm .au .nut .mov .mp4 .dv .mkv
